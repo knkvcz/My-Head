@@ -1,0 +1,13 @@
+[33mcommit 6dec4bdf160fa90b5f14890ad5f5d3127af46da1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/personalizar-home[m[33m)[m
+Author: bruna <brunaknakieviczarruda@gmail.com>
+Date:   Wed Sep 9 00:20:11 2026 -0300
+
+    feat: adiciona cabeçalho da página e limpeza de arquivos que nao serao usados
+
+ Projeto_integrador |   1 [31m-[m
+ css/style.css      |   4 [31m----[m
+ head-gif.gif       | Bin [31m4249953[m -> [32m0[m bytes
+ img/cabeca.jpg     | Bin [31m50647[m -> [32m0[m bytes
+ index.html         |  40 [31m----------------------------------------[m
+ js/main.js         |   1 [31m-[m
+ 6 files changed, 46 deletions(-)
